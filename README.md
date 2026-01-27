@@ -4,7 +4,7 @@ This project analyzes **car sales performance data from 2022–2023** using an i
 
 - **Total Records:** 23,906 car sales  
 - **Time Period:** 2 Years (2022–2023)
-- 
+  
 ## Project Objectives
 - Monitor overall sales performance and year-on-year growth  
 - Identify top-performing regions, manufacturers, models, and dealers  
@@ -12,3 +12,4 @@ This project analyzes **car sales performance data from 2022–2023** using an i
 - Support inventory planning and sales strategy optimization  
 
 ## Dataset Used
+- <a href="https://github.com/Ishraque03/Car-Sales-Performance-Dashboard/blob/main/Car%20Sales%20Dataset.csv">Dataset</a>
