@@ -15,8 +15,8 @@ This project analyzes **car sales performance data from 2022–2023** using an i
 - <a href="https://github.com/Ishraque03/Car-Sales-Performance-Dashboard/blob/main/Car%20Sales%20Dataset.csv">Dataset</a>
 
 ## Instructions
-1. Download the Excel file.
-2. Open the Excel dashboard file.
+1. Download the <a href="https://github.com/Ishraque03/Car-Sales-Performance-Dashboard/blob/main/Car%20Sales%20Performance%20Dashboard.xlsx">Car Sales Performance Dashboard</a> Excel file.
+2. Open the Car Sales Performance Dashboard Excel file.
 3. Use slicers and filters to explore sales performance by year, region, company, and vehicle attributes.
 
 ## Key Business Questions Addressed
